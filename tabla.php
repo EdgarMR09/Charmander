@@ -3,8 +3,8 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Tabla de multiplicar</title>
-    <link rel="stylesheet" href="estilos.css">
+    <title>Document</title>
+    <link rel="stylesheet" href="">
 </head>
 <body>
     <?php include 'menu.php'; ?>
@@ -52,10 +52,6 @@
     }
     ?>
 </main>
-
-<footer>
-    CBTIS 217 - Mi Portal de Herramientas
-</footer>
 
 </body>
 </html>
